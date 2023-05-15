@@ -1,2 +1,4 @@
 # M4ML-dim-reduction
-Project 2 of Mathematics for machine learning: Dimensionality reduction
+The file `project.pdf` contains the final report of the project.
+
+The folder `Project2` contains the runnable code.

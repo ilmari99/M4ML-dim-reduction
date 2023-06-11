@@ -4,7 +4,7 @@ In this project, we employed different dimension reduction methods, PCA, SVD, MI
 
 The results show that RandomForest, with forward feature selection based on Mutual Information performs best in this task.
 
-!(pairplot)[pairplot-top5.png]
+![pairplot](pairplot-top5.png)
 
 The file `project.pdf` contains the final report of the project.
 
